@@ -1,0 +1,3 @@
+[build]
+base = "project"
+command ="npm run build"
